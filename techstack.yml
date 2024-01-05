@@ -1,7 +1,8 @@
 repo_name: steveny2k/spring-boot-projects
 report_id: e33aadff690c639800df39f3b66a9d49
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T09:50:18+00:00'
+timestamp: '2024-01-05T08:55:25+00:00'
 requested_by: ZHENFENG13
 provider: github
 branch: master
@@ -17,8 +18,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
-  detection_source_url: pom.xml
-  detection_source: pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/pom.xml
+  detection_source: Repo Metadata
   last_updated_by: '13'
   last_updated_on: 2019-05-15 03:08:20.000000000 Z
 - name: JavaScript
@@ -30,7 +31,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
-  detection_source: SpringBoot咨询发布系统实战项目源码/springboot-project-news-publish-system/src/main/resources/static/index/js/jquery.min.js
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot前后端分离实战项目源码/spring-boot-project-front-end&back-end/src/main/resources/static/dist/js/demo.js
+  detection_source: SpringBoot前后端分离实战项目源码/spring-boot-project-front-end&back-end/src/main/resources/static/dist/js/demo.js
   last_updated_by: '13'
   last_updated_on: 2019-05-18 07:15:10.000000000 Z
 - name: SQL
@@ -41,7 +43,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
-  detection_source: 玩转SpringBoot系列案例源码/spring-boot-transaction/tb_user-schema.sql
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot入门案例源码/spring-boot-RESTful-api/springboot-tb-user-schema.sql
+  detection_source: SpringBoot入门案例源码/spring-boot-RESTful-api/springboot-tb-user-schema.sql
   last_updated_by: '13'
   last_updated_on: 2019-03-11 09:38:47.000000000 Z
 - name: Apache FreeMarker
@@ -53,6 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Java Tools
   image_url: https://img.stackshare.io/service/4456/ymCgaIO0_400x400.jpg
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects
   detection_source: Repo Metadata
 - name: Spring Framework
   description: An application framework and inversion of control container for the
@@ -64,7 +68,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
-  detection_source: 玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf/pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
+  detection_source: SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
   last_updated_by: '13'
   last_updated_on: 2019-05-15 02:24:16.000000000 Z
 - name: MyBatis
@@ -76,7 +81,8 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/5582/1483254.png
-  detection_source: 玩转SpringBoot系列案例源码/spring-boot-transaction/pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
+  detection_source: SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
   last_updated_by: '13'
   last_updated_on: 2019-03-11 09:38:47.000000000 Z
 - name: MySQL
@@ -87,7 +93,8 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
-  detection_source: 玩转SpringBoot系列案例源码/spring-boot-transaction/pom.xml
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
+  detection_source: SpringBoot入门案例源码/spring-boot-RESTful-api/pom.xml
   last_updated_by: '13'
   last_updated_on: 2019-03-11 09:38:47.000000000 Z
 - name: Redis
@@ -99,6 +106,7 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/玩转SpringBoot系列案例源码/spring-boot-redis/pom.xml
   detection_source: 玩转SpringBoot系列案例源码/spring-boot-redis/pom.xml
   last_updated_by: '13'
   last_updated_on: 2019-05-15 02:32:48.000000000 Z
@@ -110,6 +118,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects
   detection_source: Repo Metadata
 - name: Apache Camel
   description: A versatile open source integration framework
@@ -120,6 +129,7 @@ tools:
   category: Application Hosting
   sub_category: Platform as a Service
   image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
-  detection_source: 玩转SpringBoot系列案例源码/spring-boot-web-thymeleaf/src/main/resources/application.properties
+  detection_source_url: https://github.com/steveny2k/spring-boot-projects/blob/master/SpringBoot入门案例源码/spring-boot-RESTful-api/src/main/resources/application.properties
+  detection_source: SpringBoot入门案例源码/spring-boot-RESTful-api/src/main/resources/application.properties
   last_updated_by: '13'
   last_updated_on: 2019-03-11 09:38:47.000000000 Z
